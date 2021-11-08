@@ -1,7 +1,7 @@
 # EXO 
 
 ## About 
-#### A Exoplanet randomizer that generates a new Exoplanet to learn about on every button refresh! 
+#### EXO is an Exoplanet randomizer that generates a new Exoplanet to learn about on every button refresh! 
 
 <hr>
 
@@ -19,5 +19,10 @@
 This app is referencing and using data supplied by `astnrgn`: https://exoplanetarchive.ipac.caltech.edu/index.html
 
 They have created an api using data from: https://exoplanetarchive.ipac.caltech.edu/index.html
+ 
+<hr>
 
+## CORS
+
+The API may not connect on load. Please go to this link and accept CORS for 24 hours: https://cors-anywhere.herokuapp.com
 
